@@ -1,0 +1,11 @@
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Chapter 5\Patient Weight Conversion\Patient Weight Conversion\bin\Debug\Patient Weight Conversion.exe
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Chapter 5\Patient Weight Conversion\Patient Weight Conversion\bin\Debug\Patient Weight Conversion.pdb
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Chapter 5\Patient Weight Conversion\Patient Weight Conversion\bin\Debug\Patient Weight Conversion.xml
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Chapter 5\Patient Weight Conversion\Patient Weight Conversion\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Chapter 5\Patient Weight Conversion\Patient Weight Conversion\obj\x86\Debug\WindowsApplication1.frmPatientWeightConverter.resources
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Chapter 5\Patient Weight Conversion\Patient Weight Conversion\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Chapter 5\Patient Weight Conversion\Patient Weight Conversion\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Chapter 5\Patient Weight Conversion\Patient Weight Conversion\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Chapter 5\Patient Weight Conversion\Patient Weight Conversion\obj\x86\Debug\Patient Weight Conversion.exe
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Chapter 5\Patient Weight Conversion\Patient Weight Conversion\obj\x86\Debug\Patient Weight Conversion.xml
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Chapter 5\Patient Weight Conversion\Patient Weight Conversion\obj\x86\Debug\Patient Weight Conversion.pdb

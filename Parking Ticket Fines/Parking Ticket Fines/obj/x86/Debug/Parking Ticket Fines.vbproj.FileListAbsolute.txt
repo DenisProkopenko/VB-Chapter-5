@@ -1,0 +1,15 @@
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Chapter 5\Parking Ticket Fines\Parking Ticket Fines\bin\Debug\Parking Ticket Fines.exe
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Chapter 5\Parking Ticket Fines\Parking Ticket Fines\bin\Debug\Parking Ticket Fines.pdb
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Chapter 5\Parking Ticket Fines\Parking Ticket Fines\bin\Debug\Parking Ticket Fines.xml
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Chapter 5\Parking Ticket Fines\Parking Ticket Fines\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Chapter 5\Parking Ticket Fines\Parking Ticket Fines\obj\x86\Debug\WindowsApplication1.frmParkingTicketFines.resources
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Chapter 5\Parking Ticket Fines\Parking Ticket Fines\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Chapter 5\Parking Ticket Fines\Parking Ticket Fines\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Chapter 5\Parking Ticket Fines\Parking Ticket Fines\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Chapter 5\Parking Ticket Fines\Parking Ticket Fines\obj\x86\Debug\Parking Ticket Fines.exe
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Chapter 5\Parking Ticket Fines\Parking Ticket Fines\obj\x86\Debug\Parking Ticket Fines.xml
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Chapter 5\Parking Ticket Fines\Parking Ticket Fines\obj\x86\Debug\Parking Ticket Fines.pdb
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Chapter 5\Parking Ticket Fines\Parking Ticket Fines\bin\Debug\Parking Ticket Fines.exe.manifest
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Chapter 5\Parking Ticket Fines\Parking Ticket Fines\bin\Debug\Parking Ticket Fines.application
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Chapter 5\Parking Ticket Fines\Parking Ticket Fines\obj\x86\Debug\Parking Ticket Fines.exe.manifest
+C:\Users\Denis\Documents\Visual Studio 2010\Projects\Chapter 5\Parking Ticket Fines\Parking Ticket Fines\obj\x86\Debug\Parking Ticket Fines.application
